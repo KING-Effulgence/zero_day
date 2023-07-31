@@ -1,0 +1,1 @@
+this is my first command on vagrant box
